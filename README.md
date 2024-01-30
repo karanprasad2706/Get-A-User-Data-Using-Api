@@ -1,5 +1,6 @@
+*LGMVIP-Web-Task-2-Web-Application*
 
-Just completed Intermediate Level -Task 4 at LGMVIP Internship! I've successfully created a Todo List web application using HTML, CSS, and JavaScript. This dynamic and user-friendly application allows users to manage their tasks effectively. Here's an overview of the features:
+Just completed Intermediate Level -Task 2 at LGMVIP Internship! I've successfully created a Todo List web application using HTML, CSS, and JavaScript. This dynamic and user-friendly application allows users to manage their tasks effectively. Here's an overview of the features:
 
 Explained Features:
 
@@ -12,6 +13,6 @@ Show/Hide Completed Tasks: Users can toggle between showing and hiding the compl
 Clear All Tasks: A button is available to clear all tasks from both the active tasks and completed tasks sections.
 LGMVIP Web Developer Internship
 
-Task: Intermediate Level - Task 4
+Task: Bignners Level - Task 2
 Languages: HTML, CSS, JavaScript
 IDE: Microsoft Visual Studio
